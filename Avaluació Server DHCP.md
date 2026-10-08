@@ -1,13 +1,14 @@
 ## Maquina zorin del client
+![alt text](image.png)
 
 ## Configuració de la màquina Zorin del client amb els adaptadors de xarxa.
-
 ### El primer adaptor es NAT 
-
+![alt text](image-1.png)
 ### El segon adaptador es DHCP 
----------
-## Configuració de l’adreça IP i la màscara de xarxa del client. 
+![alt text](image-2.png)
 
+## Configuració de l’adreça IP i la màscara de xarxa del client. 
+![alt text](image-3.png)
 
 ## Instal·lació del servidor Kea DHCPv4 amb la comanda sudo apt install kea-dhcp4-server
 
