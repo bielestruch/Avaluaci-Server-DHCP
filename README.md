@@ -54,3 +54,7 @@
 
 ### Comprovació dels registres del servidor Kea i del funcionament del servei DHCP.  
 ![](/img/Comprovació%20dels%20registres%20del%20servidor%20Kea%20i%20del%20funcionament%20del%20servei%20DHCP.png)
+
+## Enlaçe hithub
+
+https://github.com/bielestruch/Avaluaci-Server-DHCP#installaci%C3%B3-de-wireshark-per-poder-analitzar-el-tr%C3%A0nsit-de-xarxa
